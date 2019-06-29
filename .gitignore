@@ -3,9 +3,14 @@
 *.so
 *.egg
 *.egg-info
+*.pth
+*.pb
+*.h5
+*.pbtxt
+*.weights
 dist
 buil
 .DS_Store*
 .ipynb_checkpoints
 __pycache__
- 
+darknet 
